@@ -1,2 +1,2 @@
 # floyd
-Any colour you love
+Any color you love
